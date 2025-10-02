@@ -13,11 +13,11 @@
 
 ### Tecnologías & Lenguajes
 <p align="center">
-  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="html5" width="40"/>
-  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="css3" width="40"/>
-  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="javascript" width="40"/>
-  <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="mysql" width="40"/>
-  <img src="https://www.svgrepo.com/show/353912/lua.svg" alt="lua" width="40"/>
+  <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40"/>
+  <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40"/>
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="40"/>
+  <img src="https://www.svgrepo.com/show/373848/mysql.svg" alt="MySQL" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40"/>
 </p>
 
 ---
@@ -32,11 +32,7 @@
 ### Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeergioCorp&show_icons=true&theme=tokyonight" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeergioCorp&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeergioCorp&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="langs"/>
 </p>
 
 ---
-
-### Contacto
-📧 **Email:** [seergiocorp@example.com](mailto:seergiocorp@example.com)  
-🔗 **GitHub:** [SeergioCorp](https://github.com/SeergioCorp)
