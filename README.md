@@ -7,7 +7,8 @@
 - Desarrollador **Backend y Frontend** con experiencia en **FiveM**  
 - Creo **APIs robustas**, **interfaces limpias** y optimizo recursos  
 - Trabajo con **HTML, CSS, JavaScript, SQL y Lua**  
-- Interesado en **optimización, seguridad** y buenas prácticas  
+- Interesado en **optimización, seguridad** y buenas prácticas
+- https://seergiocorp.site/
 
 ---
 
