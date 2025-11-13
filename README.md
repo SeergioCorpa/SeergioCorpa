@@ -1,5 +1,7 @@
 <h1 align="center">SeergioCorp</h1>
-<h3 align="center">Backend & Frontend Developer | FiveM Scripter</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1D3C6A&vCenter=true&width=435&lines=Full+Stack+Developer" alt="Full Stack Developer" />
+</a>
 
 ---
 
