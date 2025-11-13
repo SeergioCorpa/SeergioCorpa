@@ -5,15 +5,15 @@
 
 ---
 
-### Sobre mí
-- Desarrollador **Backend y Frontend** con experiencia en **FiveM**  
-- Creo **APIs robustas**, **interfaces limpias** y optimizo recursos  
-- Trabajo con **HTML, CSS, JavaScript, SQL y Lua**  
-- Interesado en **optimización, seguridad** y buenas prácticas
+### About Me
+- **Backend and Frontend** Developer with experience in **FiveM**  
+- I build **robust APIs**, **clean interfaces** and optimize resources  
+- I work with **HTML, CSS, JavaScript, SQL, and Lua**  
+- Interested in **optimization, security**, and best practices
 
 ---
 
-### Tecnologías & Lenguajes
+### Technologies & Languages
 <p align="center">
   <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="40"/>
   <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="40"/>
@@ -25,19 +25,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40"/>
-
 </p>
 
 ---
 
-### Proyectos destacados
-- **API de usuarios** – CRUD con autenticación y validaciones  
-- **Dashboard** – Panel responsive con gráficos e integración  
-- **FiveM Scripts** – Recursos optimizados con **Lua + MySQL**  
+### Featured Projects
+- **User API** – CRUD with authentication and validations  
+- **Dashboard** – Responsive panel with charts and integration  
+- **FiveM Scripts** – Optimized resources using **Lua + MySQL**  
 
 ---
 
-### Estadísticas de GitHub
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SeergioCorp&show_icons=true&theme=tokyonight" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeergioCorp&layout=compact&theme=tokyonight&langs_count=6&hide=css" alt="langs"/>
